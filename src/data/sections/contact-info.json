@@ -1,0 +1,16 @@
+{
+  "button": {
+    "label": "Contact Us",
+    "link": "/contact"
+  },
+  "items": [
+    {
+      "label": "Email address",
+      "value": "buteconstruction@outlook.com"
+    },
+    {
+      "label": "For Consultation",
+      "value": "+44 7809 106913"
+    }
+  ]
+}

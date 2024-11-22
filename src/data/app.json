@@ -1,0 +1,126 @@
+{
+  "settings": {
+    "siteName": "Bute Constructions",
+    "siteDescription": "Civil Engineering",
+    "formspreeURL": "https://formspree.io/f/your_api_key",
+    "mailchimp": {
+      "url": "",
+      "key": ""
+    },
+    "perPage": 6
+  },
+  "header": {
+    "logo": {
+      "image": "/img/logo/logo-light.png",
+      "alt": "Logo"
+    },
+    "menu": [
+      {
+        "label": "Home",
+        "link": "/",
+        "children": 0
+      },
+      {
+        "label": "Projects",
+        "link": "/projects",
+        "children": 0
+      },
+      {
+        "label": "Sustainability",
+        "link": "/sustainability",
+        "children": 0
+      },
+      {
+        "label": "Contact Us",
+        "link": "/contact",
+        "children": 0
+      },
+      {
+        "label": "About",
+        "link": "/about",
+        "children": 0
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "image": "/img/logo/logo-light.png",
+      "alt": "Logo"
+    },
+    "chas": {
+      "image": "/img/logo/chas.png",
+      "alt": "chas"
+    },
+    "elite": {
+      "image": "/img/logo/elite.png",
+      "alt": "elite"
+    },
+    "copy": "© 2024 Shara Solutions. All rights reserved.",
+    "menu": [
+      {
+        "label": "About",
+        "link": "/about",
+        "content": "Discover Bute Construction, your trusted partner for transformative construction solutions. Based in the vibrant heart of London, we bring over three years of dedicated service to the table, by being a dynamic and experienced leader in the realm of highway maintenance, surfacing, ground works, and external projects. Our commitment lies in delivering eco-friendly practices, strategic planning, and cost-effective excellence that aligns seamlessly with your needs",
+        "background": "/img/projects/1.png"
+      },
+      {
+        "label": "Services",
+        "link": "/services",
+        "content": "",
+        "background": "/img/projects/2.png",
+        "servicesList": [
+          "Surfacing",
+          "Ground Works",
+          "Highway Maintenance",
+          "External Works",
+          "Utilities Civil Works"
+        ]
+      },
+      {
+        "label": "Projects",
+        "link": "/projects",
+        "content": "",
+        "background": "/img/projects/3.png",
+        "servicesList": [
+          "ATF Jarman Park 1414 Project",
+          "Builders Depot New Southgate",
+          "CAT 3 Washington Ave Hemel Hampstead - Ringway Project",
+          "Eurovia - Cherry Three Lane Project",
+          "Hemel Hampstead Leverstock Green Project",
+          "Ringways - ATF Marlborough St. Albans Project",
+          "Stevenage Project",
+          "Ringways - ITP Bearton Road, Hitchin Project",
+          "Hemel Hampstead Project",
+          "Eurovia - High Street, Tring Project"
+        ]
+      },
+      {
+        "label": "Contact",
+        "link": "/contact",
+        "content": "",
+        "background": "/img/projects/4.png",
+        "servicesList": [
+          "Address - 77 Vancouver Road, Edgware, Middlesex, HA8 5DG, UK",
+          "Phone - +44 7809 106913",
+          "Email - info@buteconstruction.co.uk"
+        ]
+      }
+    ]
+  },
+  "social": [
+    {
+      "link": "https://www.facebook.com/profile.php?id=61550603377370",
+      "title": "Facebook"
+    },
+    {
+      "link": "https://www.linkedin.com/company/bute-construction-ltd",
+      "title": "LinkedIn"
+    }
+  ],
+  "projects": {
+    "categories": []
+  },
+  "team": {
+    "categories": []
+  }
+}
