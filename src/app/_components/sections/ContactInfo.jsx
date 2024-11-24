@@ -1,6 +1,6 @@
 import Data from "@data/sections/contact-info.json";
 import Link from "next/link";
-
+ 
 const ContactInfoSection = () => {
   return (
     <>

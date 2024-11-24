@@ -37,7 +37,7 @@ const ProcessSlider = ({ bgStyle = "default", paddingTop = "120" }) => {
               </div>
             </div>
           </div>
-
+ 
           <Swiper
             {...SliderProps.milProcessSlider}
             className="swiper-container mil-process-slider"
