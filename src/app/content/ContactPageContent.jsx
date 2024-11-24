@@ -62,13 +62,7 @@ function ContactPageContent() {
       {/* Map Section */}
       <div className="mil-map-frame mil-up">
         <div className="mil-map">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9912..."
-            style={{ border: "0" }}
-            allowFullScreen
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-          />
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2478.0462035323467!2d-0.2761111231164299!3d51.60404200363842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487616add86aec77%3A0x3b86caff77ec2b97!2s77%20Vancouver%20Rd%2C%20Edgware%20HA8%205DG%2C%20UK!5e0!3m2!1sen!2slk!4v1732431427324!5m2!1sen!2slk" width="600" height="450" style={{"border":0}} allowFullScreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
       {/* Map Section End */}
