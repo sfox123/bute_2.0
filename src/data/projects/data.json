@@ -408,7 +408,7 @@
     },
     {
       "id": 7,
-      "title": "CAT 3 Washington Ave Hemel Hampstead - Ringway Project",
+      "title": "Hemel Hampstead Project",
       "category_slug": "architecture",
       "image": "/img/covers/7.jpg",
       "category": "Project-7",
@@ -528,7 +528,7 @@
       "id": 9,
       "title": "Welwyn Garden City",
       "category_slug": "architecture",
-      "image": "/img/projects/12.png",
+      "image": "/img/covers/8.jpg",
       "category": "Project-9",
       "gallery": [
         {
@@ -622,7 +622,7 @@
       "id": 11,
       "title": "Work Gallery 1",
       "category_slug": "architecture",
-      "image": "/img/projects/9.png",
+      "image": "/img/covers/9.jpg",
       "category": "Gallery-1",
       "gallery": [
         {
@@ -667,7 +667,7 @@
       "id": 12,
       "title": "Work Gallery 2",
       "category_slug": "architecture",
-      "image": "/img/projects/3.png",
+      "image": "/img/covers/10.jpg",
       "category": "Gallery-2",
       "gallery": [
         {
@@ -756,7 +756,7 @@
       "id": 13,
       "title": "Eurovia - Bark Way, Royston Project",
       "category_slug": "architecture",
-      "image": "/img/projects/10.png",
+      "image": "/img/projects/bute/2/2.jpg",
       "category": "Project-11",
       "gallery": [
         {
