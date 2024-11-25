@@ -5,7 +5,6 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { useState } from "react";
 
 import Data from "@data/sliders/recent-projects";
-import Link from "next/link";
 
 const RecentProjectsSlider = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
