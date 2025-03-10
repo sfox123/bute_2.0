@@ -44,6 +44,16 @@ const RecentProjectsSlider = () => {
                       <h5 className="mil-upper mil-mb-10">
                         {currentItem.title}
                       </h5>
+                      {currentItem.subtitle && (
+                        <>
+                          <p
+                            className="mil-upper"
+                            style={{ fontWeight: "bold", color: "orangered" }}
+                          >
+                            {currentItem.subtitle}
+                          </p>
+                        </>
+                      )}
                     </div>
                   </div>
                 </div>
