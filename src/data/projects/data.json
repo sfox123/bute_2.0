@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 0,
-      "title": "Boundary Way, Hemel Hampstead Project - (ONGOING)",
+      "title": "Boundary Way, Hemel Hampstead Project",
       "category_slug": "architecture",
       "image": "/img/projects/0.png",
       "category": "Project-1",
@@ -26,8 +26,49 @@
       ]
     },
     {
-      "id": 0,
-      "title": "Ringways - ITP 190015-1 Boundary Way, Hemel Hampstead Project - (ONGOING)",
+      "id": 10,
+      "title": "Ringways - CAT3 Handside lane WGC Project",
+      "category_slug": "architecture",
+      "image": "/img/projects/1.jpg",
+      "category": "Project-11",
+      "gallery": [
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/1.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/1.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/2.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/2.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/3.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/3.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/4.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/4.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/5.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/5.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/6.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/6.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/7.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/7.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/8.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Handside lane WGC Project/8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Ringways - ITP 190015-1 Boundary Way, Hemel Hampstead Project",
       "category_slug": "architecture",
       "image": "/img/projects/14.png",
       "category": "Project-2",
@@ -59,11 +100,43 @@
         {
           "original": "/img/projects/bute/7/7.jpg",
           "thumbnail": "/img/projects/bute/7/7.jpg"
+        },
+        {
+          "original": "/img/projects/bute/7/8.jpg",
+          "thumbnail": "/img/projects/bute/7/8.jpg"
+        },
+        {
+          "original": "/img/projects/bute/7/9.jpg",
+          "thumbnail": "/img/projects/bute/7/9.jpg"
+        },
+        {
+          "original": "/img/projects/bute/7/10.jpg",
+          "thumbnail": "/img/projects/bute/7/10.jpg"
+        },
+        {
+          "original": "/img/projects/bute/7/11.jpg",
+          "thumbnail": "/img/projects/bute/7/11.jpg"
+        },
+        {
+          "original": "/img/projects/bute/7/12.jpg",
+          "tZumbnail": "/img/projects/bute/7/12.jpg"
+        },
+        {
+          "original": "/img/projects/bute/7/13.jpg",
+          "thumbnail": "/img/projects/bute/7/13.jpg"
+        },
+        {
+          "original": "/img/projects/bute/7/14.jpg",
+          "thumbnail": "/img/projects/bute/7/14.jpg"
+        },
+        {
+          "original": "/img/projects/bute/7/15.jpg",
+          "thumbnail": "/img/projects/bute/7/15.jpg"
         }
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "ATF Jarman Park",
       "category_slug": "project-1",
       "image": "/img/projects/1.png",
@@ -116,7 +189,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Builders Depot New Southgate",
       "category_slug": "architecture",
       "image": "/img/projects/2.png",
@@ -149,7 +222,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Eurovia - Cherry Three Lane Project",
       "category_slug": "architecture",
       "image": "/img/covers/3.jpg",
@@ -206,7 +279,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Eurovia - High Street, Tring Project",
       "category_slug": "architecture",
       "image": "/img/covers/4.jpg",
@@ -331,7 +404,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Ringways - ITP Bearton Road, Hitchin Project",
       "category_slug": "architecture",
       "image": "/img/covers/5.jpg",
@@ -388,7 +461,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Ringways - ATF Marlborough St. Albans Project",
       "category_slug": "architecture",
       "image": "/img/covers/6.jpg",
@@ -469,7 +542,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Hemel Hampstead Project",
       "category_slug": "architecture",
       "image": "/img/covers/7.jpg",
@@ -522,7 +595,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Stevenage Project",
       "category_slug": "architecture",
       "image": "/img/projects/8.png",
@@ -587,7 +660,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Welwyn Garden City",
       "category_slug": "architecture",
       "image": "/img/covers/8.jpg",
@@ -628,7 +701,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "CAT 3 Washington Ave Hemel Hampstead - Ringway Project",
       "category_slug": "architecture",
       "image": "/img/projects/13.png",
@@ -681,7 +754,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Work Gallery 1",
       "category_slug": "architecture",
       "image": "/img/covers/9.jpg",
@@ -726,7 +799,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Work Gallery 2",
       "category_slug": "architecture",
       "image": "/img/covers/10.jpg",
@@ -840,7 +913,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "Ringways - The Woods, Northwood Project",
       "category_slug": "architecture",
       "image": "/img/projects/bute/5/2.jpg",
@@ -921,7 +994,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "title": "Ringways - CAT 3 Howlands, Welwyn Garden City Project",
       "category_slug": "architecture",
       "image": "/img/projects/bute/6/2.jpg",
