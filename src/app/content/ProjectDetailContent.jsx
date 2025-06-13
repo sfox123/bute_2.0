@@ -21,6 +21,11 @@ function ProjectDetailContent({ postData, prev, next }) {
       />
 
       {/* Description */}
+      <div className="container mil-p-120-60">
+        <p style={{ whiteSpace: "pre-line", fontSize: "18px" }}>
+          {postData.description ? postData.description : ""}
+        </p>
+      </div>
       {/* Description End */}
 
       <div className="container mb-5">

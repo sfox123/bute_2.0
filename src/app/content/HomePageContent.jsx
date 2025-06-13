@@ -17,6 +17,9 @@ const RecentProjectsSlider = dynamic(
   () => import("@components/sliders/RecentProjects"),
   { ssr: false }
 );
+const YoutubePlayer = dynamic(() => import("@components/Youtube"), {
+  ssr: false,
+});
 
 function HomePageContent({ posts }) {
   return (
@@ -24,6 +27,7 @@ function HomePageContent({ posts }) {
       <HeroTwoSlider />
       <FeaturesSection />
       <AboutThreeSection />
+      <YoutubePlayer />
       <TestimonialSlider showPartners={1} />
       <RecentProjectsSlider />
     </>

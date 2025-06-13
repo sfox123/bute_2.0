@@ -44,7 +44,7 @@ const RecentProjectsSlider = () => {
                       <h5 className="mil-upper mil-mb-10">
                         {currentItem.title}
                       </h5>
-                      {currentItem.subtitle && (
+                      {/* {currentItem.subtitle && (
                         <>
                           <p
                             className="mil-upper"
@@ -53,7 +53,7 @@ const RecentProjectsSlider = () => {
                             {currentItem.subtitle}
                           </p>
                         </>
-                      )}
+                      )} */}
                     </div>
                   </div>
                 </div>
