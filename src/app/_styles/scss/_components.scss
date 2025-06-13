@@ -2880,7 +2880,7 @@ load more
 
 /* General body and container styles */
 .youtube-player-container {
-  background-color: #111827; /* Corresponds to bg-gray-900 */
+  background-color: transparent; /* Corresponds to bg-gray-900 */
   min-height: 100vh;
   display: flex;
   align-items: center;

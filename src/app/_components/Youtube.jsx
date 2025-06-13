@@ -40,15 +40,13 @@ const YoutubePlayer = () => {
         <div className="video-aspect-ratio">
           <iframe
             className="video-iframe"
-            src="https://www.youtube.com/embed/GcM-igDQGTM?si=cKF3qnMkTpKLBpj6&autoplay=1&mute=1&loop=1&playlist=GcM-igDQGTM&controls=0&showinfo=0&rel=0"
+            src="https://www.youtube.com/embed/GcM-igDQGTM?si=cKF3qnMkTpKLBpj6&autoplay=1&mute=0&loop=1&playlist=GcM-igDQGTM&controls=1&showinfo=0&rel=0"
             title="YouTube video player"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerPolicy="strict-origin-when-cross-origin"
             allowFullScreen
           ></iframe>
         </div>
-
-        {/* Video information section */}
         <div className="video-info">
           <div className="video-title-container">
             <YouTubeIcon />
