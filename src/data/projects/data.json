@@ -1,6 +1,35 @@
 {
   "projects": [
     {
+      "id": 24,
+      "title": "Ringways - CAT3 Bury Lane Codicote Project",
+      "category_slug": "architecture",
+      "image": "/img/projects/223.jpg",
+      "category": "Project-latest",
+      "gallery": [
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Bury Lane Codicote Project/1.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Bury Lane Codicote Project/1.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Bury Lane Codicote Project/2.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Bury Lane Codicote Project/2.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Bury Lane Codicote Project/3.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Bury Lane Codicote Project/3.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Bury Lane Codicote Project/4.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Bury Lane Codicote Project/4.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - CAT3 Bury Lane Codicote Project/5.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - CAT3 Bury Lane Codicote Project/5.jpg"
+        }
+      ]
+    },
+    {
       "id": 23,
       "title": "Ringways - CAT3 Hertford Town Centre Project",
       "category_slug": "architecture",
