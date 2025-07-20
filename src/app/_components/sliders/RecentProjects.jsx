@@ -7,13 +7,14 @@ import { useState } from "react";
 import Data from "@data/sliders/recent-projects";
 
 const RecentProjectsSlider = () => {
+  const displayedItems = Data.items.slice(0, 5);
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const handleSlideChange = (swiper) => {
     setCurrentIndex(swiper.realIndex);
   };
 
-  const currentItem = Data.items[currentIndex];
+  const currentItem = displayedItems[currentIndex];
 
   return (
     <>
@@ -67,7 +68,7 @@ const RecentProjectsSlider = () => {
                   onSlideChange={handleSlideChange}
                   onInit={(swiper) => setCurrentIndex(swiper.realIndex)}
                 >
-                  {Data.items.map((item, key) => (
+                  {displayedItems.map((item, key) => (
                     <SwiperSlide
                       className="swiper-slide"
                       key={`illustration-slider-item-${key}`}
