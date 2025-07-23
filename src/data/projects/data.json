@@ -1,6 +1,112 @@
 {
   "projects": [
     {
+      "id": 27,
+      "title": "Ringways- CAT3 Homestead Moat Project",
+      "category_slug": "architecture",
+      "image": "/img/projects/245.jpg",
+      "category": "Project-latest",
+      "gallery": [
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/1.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/1.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/2.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/2.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/3.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/3.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/4.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/4.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/5.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/5.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/6.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/6.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/7.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/7.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/8.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/8.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/9.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/9.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/10.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/10.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/11.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/11.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/12.jpg",
+          "thumbnail": "/img/projects/bute/Ringways- CAT3 Homestead Moat Project/12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Ringways - TMZ Watford 1 Speed compliance Project",
+      "category_slug": "architecture",
+      "image": "/img/projects/244.jpg",
+      "category": "Project-latest",
+      "gallery": [
+        {
+          "original": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/1.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/1.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/2.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/2.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/3.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/3.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/4.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/4.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/5.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/5.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/6.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/6.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/7.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/7.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/8.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/8.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/9.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/9.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/10.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - TMZ Watford 1 Speed compliance Project/10.jpg"
+        }
+      ]
+    },
+    {
       "id": 25,
       "title": "Ringways - CAT3 Bury Lane Codicote Project",
       "category_slug": "architecture",
