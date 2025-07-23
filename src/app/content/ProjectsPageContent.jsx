@@ -10,7 +10,8 @@ const ProjectsMasonry = dynamic(() => import("@components/ProjectsMasonry"), {
 });
 
 function ProjectsPageContent() {
-  const projects = data.projects; // Use the projects data from data.json
+  // Display projects in descending order so newest items appear first
+  const projects = [...data.projects].sort((a, b) => b.id - a.id);
 
   return (
     <>

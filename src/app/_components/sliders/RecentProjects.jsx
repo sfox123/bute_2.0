@@ -5,9 +5,12 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { useState } from "react";
 
 import Data from "@data/sliders/recent-projects";
+import ProjectsData from "@data/projects/data.json";
 
 const RecentProjectsSlider = () => {
-  const displayedItems = Data.items.slice(0, 5);
+  const displayedItems = [...ProjectsData.projects]
+    .sort((a, b) => b.id - a.id)
+    .slice(0, 5);
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const handleSlideChange = (swiper) => {
@@ -79,7 +82,7 @@ const RecentProjectsSlider = () => {
                         data-swiper-parallax-scale="1.3"
                       >
                         <div className="mil-image-frame">
-                          <img src={item.image} alt={item.alt} />
+                          <img src={item.image} alt={item.alt || item.title} />
                         </div>
                       </div>
                     </SwiperSlide>
