@@ -1,6 +1,31 @@
 {
   "projects": [
     {
+      "id": 28,
+      "title": "Ringways - Externals Mattock Road  Hitchin Project",
+      "category_slug": "architecture",
+      "image": "/img/projects/246.jpg",
+      "category": "Project-latest",
+      "gallery": [
+        {
+          "original": "/img/projects/bute/Ringways - Externals Mattock Road  Hitchin Project/1.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - Externals Mattock Road  Hitchin Project/1.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - Externals Mattock Road  Hitchin Project/2.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - Externals Mattock Road  Hitchin Project/2.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - Externals Mattock Road  Hitchin Project/3.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - Externals Mattock Road  Hitchin Project/3.jpg"
+        },
+        {
+          "original": "/img/projects/bute/Ringways - Externals Mattock Road  Hitchin Project/4.jpg",
+          "thumbnail": "/img/projects/bute/Ringways - Externals Mattock Road  Hitchin Project/4.jpg"
+        }
+      ]
+    },
+    {
       "id": 27,
       "title": "Ringways- CAT3 Homestead Moat Project",
       "category_slug": "architecture",
