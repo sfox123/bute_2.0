@@ -1,6 +1,35 @@
 {
   "projects": [
     {
+      "id": 30,
+      "title": "Ringways - Haywood close, Pin Green, Stevenage Project",
+      "category": "Project latest",
+      "category_slug": "architecture",
+      "image": "/img/projects/8.jpeg",
+      "gallery": [
+        {
+          "original": "/img/projects/bute/8/1.jpeg",
+          "thumbnail": "/img/projects/bute/8/1.jpeg"
+        },
+        {
+          "original": "/img/projects/bute/8/2.jpeg",
+          "thumbnail": "/img/projects/bute/8/2.jpeg"
+        },
+        {
+          "original": "/img/projects/bute/8/3.jpeg",
+          "thumbnail": "/img/projects/bute/8/3.jpeg"
+        },
+        {
+          "original": "/img/projects/bute/8/4.jpeg",
+          "thumbnail": "/img/projects/bute/8/4.jpeg"
+        },
+        {
+          "original": "/img/projects/bute/8/5.jpeg",
+          "thumbnail": "/img/projects/bute/8/5.jpeg"
+        }
+      ]
+    },
+    {
       "id": 29,
       "title": "Ringways - ITP B197 Corridor, Woolmer Green Project",
       "category": "Project latest",
